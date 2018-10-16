@@ -1,2 +1,2 @@
-# golden-ratio-typography
-Easily calculate golden ratio for a given typography.
+# Simple Golden Ratio
+Simple to use HoC for composing Golden ratio components
